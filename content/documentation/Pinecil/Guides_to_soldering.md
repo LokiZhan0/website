@@ -26,6 +26,7 @@ This article is a list of convenient links to guides on soldering. Although itâ€
 * [Beginnerâ€™s Guide to Soldering - Mr. Solder](https://www.youtube.com/watch?v=T8mVvI8YnCc)
 * [Fine SMD Soldering](https://www.youtube.com/watch?v=6PB0u8irn-4)
 * [Comic book - Soldering](https://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf)
+* [SMT Reflow Soldering Process](https://pcbcool.com/technical-guides/reflow-soldering-process/)
 
 ## Does solder type and flux matter?
 
